@@ -1,0 +1,6 @@
+/*esto es un comentario en css*/
+body {
+    background: rgb(255,241,214);
+    background: linear-gradient(180deg, rgba(255,241,214,1) 0%, rgba(222,199,154,1) 100%);
+    font-family:Arial, Helvetica, sans-serif
+}
